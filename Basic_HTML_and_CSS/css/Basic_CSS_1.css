@@ -1,0 +1,13 @@
+h1{
+  font-size:30px;
+  text-align:center;
+  text-transform:uppercase;
+}
+.red{color:#FF0000;}
+p{
+  text-align:right;
+  color:purple;
+}
+.center{
+  text-align:center;
+}
